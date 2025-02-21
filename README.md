@@ -50,7 +50,7 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 ## License
 
-This repository is licensed under the [MIT License](https://github.com/Ashokkpal/Java?tab=MIT-1-ov-file). Feel free to use, modify, and distribute the code as you see fit.
+This repository is licensed under the [MIT License](https://github.com/Ashokkpal/Java/blob/main/LICENSE). Feel free to use, modify, and distribute the code as you see fit.
 
 ---
 
